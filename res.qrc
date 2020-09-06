@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/backgrounds.png</file>
+        <file>res/chess.png</file>
+        <file>res/title.ico</file>
+        <file>res/hinder.png</file>
+        <file>res/guard.png</file>
+        <file>res/target.png</file>
+        <file>res/delete_chess.jpg</file>
+    </qresource>
+</RCC>
